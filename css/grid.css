@@ -149,7 +149,6 @@
     width: 66.6667%;
   }
 
-
   .unit-s-3-4,
   .s-3-4 {
     width: 75%;
@@ -247,7 +246,6 @@
     left: -66.6667%;
   }
 
-
   .unit-offset-m-1-4 {
     margin-left: 25%;
   }
@@ -288,5 +286,4 @@
     display: inline-block;
     visibility: visible;
   }
-
 }
